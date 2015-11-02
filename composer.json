@@ -9,6 +9,7 @@
   },
   "require": {
     "etdsolutions/codemirror": ">=5.2.0",
-    "etdsolutions/marked": ">=0.3.0"
+    "etdsolutions/marked": ">=0.3.0",
+    "etdsolutions/codemirror-spell-checker": ">=1.0"
   }
 }
