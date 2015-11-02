@@ -1,0 +1,14 @@
+{
+  "name": "etdsolutions/simplemde-markdown-editor",
+  "description": "A simple, beautiful, and embeddable JavaScript Markdown editor. Features autosaving and spell checking.",
+  "homepage": "https://github.com/NextStepWebs/simplemde-markdown-editor",
+  "license": "MIT",
+  "author": {
+  	"name": "Wes Cossick",
+  	"url": "http://www.WesCossick.com"
+  },
+  "require": {
+    "etdsolutions/codemirror": ">=5.2.0",
+    "etdsolutions/marked": ">=0.3.0"
+  }
+}
